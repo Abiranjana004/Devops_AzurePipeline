@@ -12,7 +12,7 @@ public class Main {
         System.out.println("ELECTRICITY BILL CALCULATOR");
         System.out.println("---------------------------");
 
-        System.out.print("Enter Consumer Name: ");
+        System.out.print("Enter Consumer Name:  ");
         String name = sc.nextLine();
 
         System.out.print("Enter Units Consumed: ");
