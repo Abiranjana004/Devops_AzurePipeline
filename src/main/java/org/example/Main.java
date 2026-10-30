@@ -31,7 +31,7 @@ public class Main {
                     + (units - 200) * 5.0;
         }
 
-        System.out.println("\n----- BILL DETAILS -----");
+        System.out.println("\n------ BILL DETAILS ------");
         System.out.println("Consumer Name : " + name);
         System.out.println("Units Used    : " + units);
         System.out.println("Total Bill    : Rs. " + bill);
